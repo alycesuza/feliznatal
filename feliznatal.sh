@@ -3,7 +3,7 @@
 # Isso foi feito para mostrar que em shell se
 # pode fazer de tudo, inclusive na tela.
 #
-# Autor: Julio Neves
+# Autor do codigo original: Julio Neves
 #
 
 trap "tput reset; stty echo; tput cnorm; exit" 2
